@@ -13,5 +13,8 @@
 		"mobile",
         "scroll-to-hide"
     ],
-	"license": "MIT"
+	"license": "MIT",
+    "ignore": [
+      "node_modules"
+    ]
 }
