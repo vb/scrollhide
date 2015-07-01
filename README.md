@@ -4,7 +4,7 @@
 
 Design pattern from Google Chrome and Safari mobile browsers.
 
-#### [demo for mobile device](http://viktorbergehall.github.io/scrollhide/)
+#### [Demo for mobile device](http://viktorbergehall.github.io/scrollhide/)
 
 ## Usage
 
