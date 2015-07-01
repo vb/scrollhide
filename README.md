@@ -4,9 +4,9 @@
 
 Design pattern from Google Chrome and Safari mobile browsers.
 
-## Usage
-
 #### [demo/](https://github.com/viktorbergehall/scrollhide/tree/master/demo)
+
+## Usage
 
 1. Include jQuery:
 
