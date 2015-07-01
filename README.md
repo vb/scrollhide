@@ -3,8 +3,7 @@
 ### Hide element when scrolling down, show when scrolling up
 
 Design pattern from Google Chrome and Safari mobile browsers.
-
-#### [Demo for mobile device](http://viktorbergehall.github.io/scrollhide/)
+[Demo for mobile device](http://viktorbergehall.github.io/scrollhide/)
 
 ## Usage
 
