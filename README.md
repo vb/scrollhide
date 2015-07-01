@@ -6,6 +6,8 @@ Design pattern from Google Chrome and Safari mobile browsers.
 
 ## Usage
 
+#### [demo/](https://github.com/viktorbergehall/scrollhide/tree/master/demo)
+
 1. Include jQuery:
 
 	```html
@@ -42,8 +44,6 @@ Design pattern from Google Chrome and Safari mobile browsers.
 └── package.json
 ```
 
-#### [demo/](https://github.com/viktorbergehall/scrollhide/tree/master/demo)
-
 ## Contributing
 
 Check [CONTRIBUTING.md](https://github.com/viktorbergehall/scrollhide/blob/master/CONTRIBUTING.md) for more information.
@@ -54,4 +54,4 @@ Check [Releases](https://github.com/viktorbergehall/scrollhide/releases) for det
 
 ## License
 
-[MIT License] © Viktor Bergehall
+[MIT License](http://viktorbergehall.mit-license.org) © Viktor Bergehall
