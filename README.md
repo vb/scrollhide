@@ -4,7 +4,7 @@
 
 Design pattern from Google Chrome and Safari mobile browsers.
 
-#### [demo](http://viktorbergehall.github.io/scrollhide/)
+#### [demo for mobile device](http://viktorbergehall.github.io/scrollhide/)
 
 ## Usage
 
@@ -23,7 +23,7 @@ Design pattern from Google Chrome and Safari mobile browsers.
 3. Call the plugin:
 
 	```javascript
-	$("#element").scrollhide();
+	$("nav").scrollhide();
 	```
 
 ## Structure
