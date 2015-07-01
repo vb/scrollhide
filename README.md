@@ -1,4 +1,4 @@
-# jQuery Scrollhide [![Build Status](https://secure.travis-ci.org/jquery-boilerplate/jquery-boilerplate.svg?branch=master)](https://travis-ci.org/jquery-boilerplate/jquery-boilerplate) ![Bower Version](https://badge.fury.io/bo/jquery-boilerplate.svg)
+# jQuery Scrollhide [![Build Status](https://travis-ci.org/viktorbergehall/scrollhide.svg?branch=master)](https://travis-ci.org/viktorbergehall/scrollhide) ![Bower Version](https://badge.fury.io/bo/jquery-boilerplate.svg)
 
 ### Hide element when scrolling down, show when scrolling up
 
