@@ -6,7 +6,7 @@
 		"Viktor Bergehall <viktor@futurniture.se>"
 	],
 	"description": "Hide when scroll down and show when scroll up. Design pattern from Google Chrome mobile browser",
-	"main": "src/jquery.scrollhide.js",
+	"main": "dist/jquery.scrollhide.min.js",
 	"keywords": [
 		"jquery",
 		"navigation",
