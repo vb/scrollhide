@@ -1,4 +1,4 @@
-# jQuery Scrollhide [![Build Status](https://travis-ci.org/viktorbergehall/scrollhide.svg?branch=master)](https://travis-ci.org/viktorbergehall/scrollhide) ![Bower Version](https://badge.fury.io/bo/jquery-boilerplate.svg)
+# jQuery Scrollhide [![Build Status](https://travis-ci.org/viktorbergehall/scrollhide.svg?branch=master)](https://travis-ci.org/viktorbergehall/scrollhide) ![Bower Version](https://badge.fury.io/bo/jquery-scrollhide.svg)
 
 ### Hide element when scrolling down, show when scrolling up
 
@@ -26,8 +26,6 @@ Design pattern from Google Chrome and Safari mobile browsers.
 
 ## Structure
 
-The basic structure of the project is given in the following way:
-
 ```
 ├── demo/
 │   └── index.html
@@ -44,38 +42,16 @@ The basic structure of the project is given in the following way:
 └── package.json
 ```
 
-## [demo/](https://github.com/jquery-scrollhide/scrollhide/tree/master/demo)
-
-Contains a simple HTML file to demonstrate your plugin.
-
-
-## Guides
-
-#### How did we get here?
-
-Have you got in this repo and still not sure about using this scrollhide?
-
-Well, extending jQuery with plugins and methods is very powerful and can save you and your peers a lot of development time by abstracting your most clever functions into plugins.
-
-[This awesome guide](https://github.com/jquery-scrollhide/scrollhide/wiki/How-did-we-get-here%3F), adapted from [jQuery Plugins/Authoring](http://docs.jquery.com/Plugins/Authoring), will outline the basics, best practices, and common pitfalls to watch out for as you begin writing your plugin.
-
-#### How to publish plugins?
-
-Also, check our guide on [How to publish a plugin in jQuery Plugin Registry](https://github.com/jquery-scrollhide/scrollhide/wiki/How-to-publish-a-plugin-in-jQuery-Plugin-Registry
-)!
-
-**Note:** The jQuery Plugin Registry is in read-only mode. New plugin releases will not be processed.
-jQuery recommends moving to [npm](https://www.npmjs.com/), using ["jquery-plugin"](https://www.npmjs.com/browse/keyword/jquery-plugin) as the keyword in your package.json. See [how to publish into npm registry](https://gist.github.com/coolaj86/1318304).
-
+#### [demo/](https://github.com/viktorbergehall/scrollhide/tree/master/demo)
 
 ## Contributing
 
-Check [CONTRIBUTING.md](https://github.com/jquery-scrollhide/scrollhide/blob/master/CONTRIBUTING.md) for more information.
+Check [CONTRIBUTING.md](https://github.com/viktorbergehall/scrollhide/blob/master/CONTRIBUTING.md) for more information.
 
 ## History
 
-Check [Releases](https://github.com/jquery-scrollhide/jquery-scrollhide/releases) for detailed changelog.
+Check [Releases](https://github.com/viktorbergehall/scrollhide/releases) for detailed changelog.
 
 ## License
 
-[MIT License](http://zenorocha.mit-license.org/) © Zeno Rocha
+[MIT License] © Viktor Bergehall
