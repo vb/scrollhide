@@ -1,0 +1,17 @@
+{
+	"name": "jquery-scrollhide",
+	"version": "1.0.0",
+	"homepage": "http://github.com/viktorbergehall/scrollhide",
+	"authors": [
+		"Viktor Bergehall <viktor@futurniture.se>"
+	],
+	"description": "Hide when scroll down and show when scroll up. Design pattern from Google Chrome mobile browser",
+	"main": "src/jquery.scrollhide.js",
+	"keywords": [
+		"jquery",
+		"navigation",
+		"mobile",
+        "scroll-to-hide"
+    ],
+	"license": "MIT"
+}

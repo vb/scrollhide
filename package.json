@@ -1,0 +1,39 @@
+{
+  "name": "jquery-scrollhide",
+  "version": "1.0.0",
+  "description": "Hide when scroll down and show when scroll up. Design pattern from Google Chrome mobile browser",
+  "keywords": [
+    "scrollhide",
+    "jquery-plugin",
+    "jquery",
+    "navigation",
+    "mobile",
+    "scroll",
+    "mobile navigation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/viktorbergehall/scrollhide.git"
+  },
+  "bugs": {
+    "url": "https://github.com/viktorbergehall/scrollhide/issues"
+  },
+  "author": {
+    "name": "Viktor Bergehall",
+    "email": "viktor@futurniture.se",
+    "url": "https://github.com/viktorbergehall"
+  },
+  "homepage": "https://github.com/viktorbergehall/scrollhide",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-cli": "~0.1.13",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-jshint": "^0.11.0",
+    "grunt-contrib-uglify": "^0.8.0",
+    "grunt-contrib-watch": "^0.6.1"
+  },
+  "scripts": {
+    "test": "grunt travis --verbose"
+  }
+}
