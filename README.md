@@ -22,7 +22,7 @@ Design pattern from Google Chrome and Safari mobile browsers.
 3. Style the element/elements:
 
     ```html
-    <nav style="position: fixed; top: 0; width: 100%; height: 50px;">
+    <nav style="position: fixed; top: 0; width: 100%; height: 50px;"></nav>
     ```
 
 4. Call the plugin:
