@@ -19,7 +19,13 @@ Design pattern from Google Chrome and Safari mobile browsers.
 	<script src="dist/jquery.scrollhide.min.js"></script>
 	```
 
-3. Call the plugin:
+3. Style the element/elements:
+
+    ```html
+    <nav style="position: fixed; top: 0; width: 100%; height: 50px;">
+    ```
+
+4. Call the plugin:
 
 	```javascript
 	$("nav").scrollhide();
