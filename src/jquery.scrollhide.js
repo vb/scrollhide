@@ -16,12 +16,12 @@
               upY = 0, onceUp = true,
               el = $(this.element), elHeight = el.height(), elTop = parseInt(el.css('top'));
 
-            jQuery(window).scroll(function() {
+            $(window).scroll(function() {
 
                 y = $(this).scrollTop();
                 down = (y > lastY) ? true : false;
 
-                if( y > 100 ){
+                if( y > (elHeight + elTop) ){
 
                   if (down) {
 
@@ -69,7 +69,6 @@
                     }
 
                     if( ((upY - elHeight) - elTop) >= y ){
-
 
                       el
                         .removeClass('unpinned')
